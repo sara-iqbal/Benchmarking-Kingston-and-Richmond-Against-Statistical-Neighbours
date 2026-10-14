@@ -1,0 +1,659 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_code,region_name,old_la_code,new_la_code,la_name,category,CINPlan_start,CINPlan_child_start,CINPlan_end,CINPlan_child_end,CINPlan_anypoint,CINPlan_child_anypoint,CINPlan_At31
+2025,Reporting year,National,E92000001,England,"","",,"","",CIN Plans,183200,176170,179920,173550,286700,272760,106780
+2025,Reporting year,Regional,E92000001,England,E12000001,North East,,"","",CIN Plans,11120,10760,11240,10940,17770,16950,6530
+2025,Reporting year,Regional,E92000001,England,E12000002,North West,,"","",CIN Plans,31010,29870,30140,29210,45090,42770,14940
+2025,Reporting year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,"","",CIN Plans,21670,20710,21410,20670,31840,30020,10430
+2025,Reporting year,Regional,E92000001,England,E12000004,East Midlands,,"","",CIN Plans,14970,14460,15150,14700,23620,22580,8470
+2025,Reporting year,Regional,E92000001,England,E12000005,West Midlands,,"","",CIN Plans,17240,16820,16780,16460,27490,26460,10720
+2025,Reporting year,Regional,E92000001,England,E12000006,East of England,,"","",CIN Plans,12680,12400,12190,11940,20420,19700,8240
+2025,Reporting year,Regional,E92000001,England,E12000007,London,,"","",CIN Plans,26630,26210,25950,25530,44780,43620,18840
+2025,Reporting year,Regional,E92000001,England,E12000008,South East,,"","",CIN Plans,33220,30580,32630,29960,52730,48550,20100
+2025,Reporting year,Regional,E92000001,England,E12000009,South West,,"","",CIN Plans,14670,14370,14420,14140,22950,22110,8530
+2025,Reporting year,Regional,E92000001,England,E13000001,Inner London,,"","",CIN Plans,10650,10520,10450,10310,18030,17600,7580
+2025,Reporting year,Regional,E92000001,England,E13000002,Outer London,,"","",CIN Plans,15970,15690,15500,15220,26750,26020,11260
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,CIN Plans,2581,2441,2425,2349,3608,3384,1183
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,CIN Plans,383,373,403,399,658,637,255
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,CIN Plans,885,871,598,580,1101,1067,503
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,CIN Plans,642,626,752,736,1119,1064,367
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,CIN Plans,987,941,1010,968,1459,1349,449
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,CIN Plans,608,602,777,768,1396,1374,619
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,CIN Plans,627,607,592,583,1117,1078,525
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,CIN Plans,1081,1056,1229,1198,1943,1876,714
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,CIN Plans,750,739,742,727,1248,1186,506
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,CIN Plans,545,537,612,605,897,868,285
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,CIN Plans,1107,1070,1231,1188,1803,1708,572
+2025,Reporting year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,CIN Plans,921,900,872,841,1425,1356,553
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,CIN Plans,894,863,914,890,1301,1228,387
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,CIN Plans,742,731,716,706,1110,1087,394
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,CIN Plans,1357,1258,1352,1273,1752,1620,400
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,CIN Plans,771,746,747,735,1135,1085,388
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,CIN Plans,914,888,701,695,1261,1217,560
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,CIN Plans,926,911,848,841,1474,1440,626
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,CIN Plans,1197,1138,1097,1051,1621,1528,524
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,CIN Plans,610,593,525,518,888,857,363
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,CIN Plans,416,404,385,383,727,706,342
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,CIN Plans,1725,1690,1702,1666,2909,2832,1207
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,CIN Plans,2366,2295,2275,2220,3338,3160,1063
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,CIN Plans,2420,2363,2452,2392,3513,3379,1061
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,CIN Plans,3116,2951,3252,3080,4199,3857,947
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,CIN Plans,1605,1545,1640,1596,2290,2171,650
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,CIN Plans,1371,1311,1452,1414,2101,1984,649
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,CIN Plans,1056,1038,1047,1019,1850,1772,803
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,CIN Plans,951,913,980,959,1496,1407,516
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,CIN Plans,1412,1368,1356,1322,2187,2069,831
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,CIN Plans,1584,1537,1224,1188,1874,1794,650
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,CIN Plans,739,725,729,718,1097,1068,368
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,CIN Plans,1326,1271,1246,1190,1775,1642,529
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,CIN Plans,843,776,857,800,1205,1107,348
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,CIN Plans,1420,1345,1450,1400,2097,1958,647
+2025,Reporting year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,CIN Plans,1252,1211,1197,1157,1886,1802,689
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,CIN Plans,964,943,1020,1001,1384,1335,364
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,CIN Plans,2077,2021,2362,2300,3423,3286,1061
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,CIN Plans,513,503,532,521,792,765,260
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,CIN Plans,1003,1001,1005,1000,1493,1480,488
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,CIN Plans,947,683,826,729,1435,1165,609
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",CIN Plans,1537,1496,1361,1335,2216,2137,855
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,CIN Plans,1874,1756,1692,1607,2232,2059,540
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,CIN Plans,1713,1698,1694,1671,2466,2405,772
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,CIN Plans,967,951,830,824,1422,1375,592
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,CIN Plans,500,498,496,487,885,858,389
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,CIN Plans,2195,2121,2275,2202,3498,3327,1223
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,CIN Plans,833,812,880,840,1255,1185,375
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,CIN Plans,4203,3977,4159,3949,6005,5497,1846
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,CIN Plans,1753,1691,1712,1660,2415,2296,703
+2025,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,CIN Plans,595,558,568,540,920,854,352
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,CIN Plans,1126,1079,1226,1181,1741,1644,515
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,CIN Plans,3080,2979,3109,3019,4590,4371,1481
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,CIN Plans,976,926,902,854,1280,1204,378
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,CIN Plans,1419,1409,1323,1299,1959,1913,636
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,CIN Plans,4025,3802,3948,3768,6741,6317,2793
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,CIN Plans,782,782,885,882,1535,1525,650
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,CIN Plans,854,828,873,856,1347,1286,474
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,CIN Plans,1935,1884,2025,1984,2795,2694,770
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,CIN Plans,72,68,64,63,102,98,38
+2025,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,CIN Plans,702,702,798,798,1529,1526,731
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,CIN Plans,3156,3088,3154,3091,4739,4548,1585
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,CIN Plans,1796,1754,1892,1855,2806,2685,914
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,CIN Plans,951,928,805,787,1483,1426,678
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",CIN Plans,493,472,574,566,785,752,211
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,CIN Plans,1292,1236,1240,1209,1863,1758,623
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,CIN Plans,613,598,476,465,1105,1071,629
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,CIN Plans,700,693,689,674,1040,1008,351
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,CIN Plans,1212,1206,1130,1122,2467,2445,1337
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,CIN Plans,1121,1079,1024,1010,1718,1643,694
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,CIN Plans,525,521,513,509,1003,990,490
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,CIN Plans,771,767,636,632,1292,1278,656
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,CIN Plans,1904,1878,1918,1894,3071,2982,1153
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,CIN Plans,1375,1284,1193,1143,1910,1733,717
+2025,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,CIN Plans,1327,1312,1531,1499,2210,2143,679
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,CIN Plans,569,549,459,450,1013,981,554
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,CIN Plans,1209,1167,1334,1297,1766,1692,432
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,CIN Plans,587,587,426,422,764,757,338
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,CIN Plans,1468,1459,1463,1451,2887,2843,1424
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,CIN Plans,1648,1632,1600,1574,2898,2823,1298
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,CIN Plans,919,883,875,847,1372,1305,497
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,CIN Plans,2088,2046,2246,2196,3411,3288,1165
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,CIN Plans,1235,1207,1091,1067,1786,1683,695
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,CIN Plans,540,522,573,561,812,768,239
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,CIN Plans,1939,1875,1651,1613,2860,2734,1209
+2025,Reporting year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,CIN Plans,479,471,467,459,852,825,385
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,CIN Plans,389,387,395,391,688,679,293
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,CIN Plans,648,648,162,162,738,738,576
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,CIN Plans,1571,1548,1382,1359,2376,2321,994
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,CIN Plans,1428,1406,1594,1552,2606,2508,1012
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,CIN Plans,11406,10426,10743,9815,16484,14874,5741
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,CIN Plans,806,787,588,562,1147,1086,559
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,CIN Plans,4098,4036,3971,3917,6960,6780,2989
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,CIN Plans,1093,1081,984,960,1732,1671,748
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,CIN Plans,1098,1080,1259,1231,2053,1945,794
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,CIN Plans,1421,1400,1655,1627,2466,2368,811
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,CIN Plans,662,660,666,664,995,980,329
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,CIN Plans,631,614,752,732,1068,1021,316
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,CIN Plans,807,784,936,912,1384,1310,448
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,CIN Plans,859,845,928,905,1469,1406,541
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,CIN Plans,2198,2136,2128,2077,4027,3881,1899
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,CIN Plans,1962,642,2007,656,2096,681,89
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,CIN Plans,1229,1229,1604,1603,2969,2960,1365
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,CIN Plans,443,436,418,412,667,636,249
+2025,Reporting year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,CIN Plans,468,437,462,427,804,704,342
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,CIN Plans,490,470,452,445,923,880,471
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",CIN Plans,1295,1258,1338,1315,1947,1878,609
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",CIN Plans,1397,1371,1332,1297,2061,1962,729
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,CIN Plans,1635,1588,1534,1505,2071,1997,537
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,CIN Plans,1430,1415,1469,1439,2349,2277,880
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,CIN Plans,1204,1179,1048,1021,1882,1799,834
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,CIN Plans,1870,1825,1668,1651,2647,2552,979
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,CIN Plans,8,8,7,7,13,12,6
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,CIN Plans,490,473,452,433,730,675,278
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,CIN Plans,673,668,831,814,1193,1164,362
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,CIN Plans,1088,1067,1079,1060,1832,1755,753
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,CIN Plans,703,698,694,683,1237,1213,543
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,CIN Plans,481,479,556,554,956,953,400
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,CIN Plans,664,640,629,611,1095,1042,466
+2025,Reporting year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,CIN Plans,1238,1226,1335,1304,2015,1952,680
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,CIN Plans,802,789,801,788,1502,1468,701
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,CIN Plans,c,c,c,c,10,10,c
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,CIN Plans,566,561,535,534,950,938,415
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,CIN Plans,402,394,454,448,727,709,273
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,CIN Plans,764,754,657,651,1230,1204,573
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,CIN Plans,837,823,857,840,1341,1293,484
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,CIN Plans,762,724,660,620,1057,976,397
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,CIN Plans,800,798,759,758,1210,1206,451
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,CIN Plans,1055,1048,1057,1051,1594,1576,537
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,CIN Plans,1263,1255,1412,1392,2494,2448,1082
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,CIN Plans,902,892,931,917,1688,1615,757
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,CIN Plans,1391,1375,1216,1199,1984,1934,768
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,CIN Plans,659,658,559,559,1334,1314,775
+2025,Reporting year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,CIN Plans,449,448,548,547,911,909,363
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,CIN Plans,1240,1210,1085,1064,1825,1754,740
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,CIN Plans,793,779,814,809,1258,1227,444
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,CIN Plans,887,853,742,707,1367,1312,625
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,CIN Plans,1025,1025,744,744,1271,1271,527
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,CIN Plans,1121,1112,1162,1128,2103,2047,941
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,CIN Plans,1765,1732,1553,1526,2907,2808,1354
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,CIN Plans,986,971,1025,1001,1472,1422,447
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,CIN Plans,1110,1093,1044,1028,2232,2179,1188
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,CIN Plans,582,578,630,621,943,924,313
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,CIN Plans,574,571,630,620,967,935,337
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,CIN Plans,1013,994,1022,1007,1532,1486,510
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,CIN Plans,812,798,925,921,1486,1463,561
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,CIN Plans,662,626,750,719,1031,971,281
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,CIN Plans,351,340,274,272,495,479,221
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,CIN Plans,495,484,466,465,929,905,463
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,CIN Plans,760,742,811,798,1716,1681,905
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,CIN Plans,305,304,266,264,491,485,225
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,CIN Plans,648,639,652,644,1427,1401,775
+2025,Reporting year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,CIN Plans,843,834,900,884,1300,1268,400
+2024,Reporting year,National,E92000001,England,"","",,"","",CIN Plans,185660,178420,184430,177470,287860,273750,103440
+2024,Reporting year,Regional,E92000001,England,E12000001,North East,,"","",CIN Plans,11570,11190,11170,10850,17990,17080,6820
+2024,Reporting year,Regional,E92000001,England,E12000002,North West,,"","",CIN Plans,32370,31010,32550,31260,47180,44430,14630
+2024,Reporting year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,"","",CIN Plans,22110,21260,21760,20920,32270,30450,10510
+2024,Reporting year,Regional,E92000001,England,E12000004,East Midlands,,"","",CIN Plans,17130,16610,17000,16640,25690,24780,8680
+2024,Reporting year,Regional,E92000001,England,E12000005,West Midlands,,"","",CIN Plans,16490,16180,16730,16450,27010,26140,10280
+2024,Reporting year,Regional,E92000001,England,E12000006,East of England,,"","",CIN Plans,13340,13040,12840,12540,21220,20440,8380
+2024,Reporting year,Regional,E92000001,England,E12000007,London,,"","",CIN Plans,26280,25800,24310,23890,43410,42200,19090
+2024,Reporting year,Regional,E92000001,England,E12000008,South East,,"","",CIN Plans,31800,29070,33210,30360,49780,45740,16570
+2024,Reporting year,Regional,E92000001,England,E12000009,South West,,"","",CIN Plans,14570,14260,14850,14560,23320,22490,8470
+2024,Reporting year,Regional,E92000001,England,E13000001,Inner London,,"","",CIN Plans,10660,10480,9070,8930,17040,16610,7960
+2024,Reporting year,Regional,E92000001,England,E13000002,Outer London,,"","",CIN Plans,15620,15330,15240,14960,26370,25590,11130
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,CIN Plans,2512,2393,2446,2324,3528,3303,1082
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,CIN Plans,509,495,444,432,772,741,328
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,CIN Plans,860,827,552,533,863,830,311
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,CIN Plans,757,736,754,741,1252,1171,498
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,CIN Plans,938,904,1014,991,1486,1413,472
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,CIN Plans,1006,953,1059,1018,1752,1590,693
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,CIN Plans,558,549,567,561,1070,1033,503
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,CIN Plans,1244,1219,1210,1186,2091,2025,881
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,CIN Plans,703,691,738,733,1221,1191,483
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,CIN Plans,554,547,549,541,918,894,369
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,CIN Plans,1144,1110,1085,1057,1782,1684,697
+2024,Reporting year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,CIN Plans,784,765,751,735,1257,1208,506
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,CIN Plans,849,823,801,782,1213,1156,412
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,CIN Plans,687,680,748,732,1134,1107,386
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,CIN Plans,2006,1875,2138,2036,2547,2357,409
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,CIN Plans,692,679,710,696,1090,1052,380
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,CIN Plans,1032,1010,1170,1142,1632,1561,462
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,CIN Plans,1048,1038,1000,987,1640,1608,640
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,942,E06000063,Cumberland,CIN Plans,1151,1061,1148,1093,1558,1443,410
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,CIN Plans,481,466,495,488,772,741,277
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,CIN Plans,514,502,477,468,833,796,356
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,CIN Plans,1626,1585,1793,1748,3005,2918,1212
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,CIN Plans,1673,1641,1374,1347,2349,2275,975
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,CIN Plans,2537,2467,2649,2576,3724,3539,1075
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,CIN Plans,3830,3611,3789,3503,4886,4429,1097
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,CIN Plans,2441,2268,2697,2520,3389,3060,692
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,CIN Plans,1486,1423,1430,1375,2180,2056,750
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,CIN Plans,1142,1104,1099,1069,1900,1792,801
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,CIN Plans,1070,1033,940,907,1498,1408,558
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,CIN Plans,1277,1243,1135,1108,1913,1826,778
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,CIN Plans,1361,1286,1330,1246,1773,1632,443
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,CIN Plans,712,696,826,803,1185,1120,359
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,CIN Plans,1160,1125,1224,1180,1675,1571,451
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,943,E06000064,Westmorland and Furness,CIN Plans,769,713,737,689,1099,1016,362
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,CIN Plans,1604,1499,1728,1675,2406,2249,678
+2024,Reporting year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,CIN Plans,1223,1183,1113,1088,1781,1716,668
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,CIN Plans,1080,1044,1014,971,1411,1349,397
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,CIN Plans,2699,2636,2734,2662,4052,3887,1318
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,CIN Plans,361,357,362,354,641,620,279
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,CIN Plans,974,969,806,804,1247,1241,441
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,CIN Plans,861,724,701,573,1204,1019,503
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",CIN Plans,1450,1423,1419,1377,2311,2203,892
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,CIN Plans,1765,1680,1819,1754,2364,2219,545
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,CIN Plans,1552,1534,1576,1555,2314,2264,738
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,CIN Plans,1073,1040,1043,1010,1544,1473,501
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,CIN Plans,531,527,366,363,930,909,564
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E06000065,North Yorkshire,CIN Plans,2210,2135,2194,2121,3413,3245,1219
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,CIN Plans,974,940,1132,1089,1549,1452,417
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,CIN Plans,4778,4503,4820,4551,6597,5999,1777
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,CIN Plans,1245,1218,1284,1258,1866,1792,582
+2024,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,CIN Plans,552,534,492,478,827,777,335
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,CIN Plans,1348,1289,1277,1243,1920,1814,643
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,CIN Plans,3341,3250,3531,3436,5061,4836,1530
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,CIN Plans,940,901,858,831,1194,1136,336
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,CIN Plans,1060,1045,1180,1175,1723,1695,543
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,CIN Plans,4839,4597,4679,4525,7301,6998,2622
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,CIN Plans,1247,1245,1083,1075,1857,1835,774
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,CIN Plans,913,899,1117,1109,1607,1569,490
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,CIN Plans,2072,2020,2051,2023,2907,2804,856
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,CIN Plans,63,61,67,62,101,93,34
+2024,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,CIN Plans,1306,1300,1158,1157,2014,1998,856
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,CIN Plans,2887,2852,3086,3047,4596,4480,1510
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,CIN Plans,1825,1781,1895,1867,2903,2778,1008
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,CIN Plans,726,719,718,709,1220,1202,502
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",CIN Plans,639,611,702,687,994,949,292
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,CIN Plans,1255,1222,1230,1186,1813,1712,583
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,CIN Plans,439,437,411,409,904,898,493
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,CIN Plans,710,696,695,679,1026,980,331
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,CIN Plans,1310,1301,1286,1281,2562,2545,1276
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,CIN Plans,1444,1408,1592,1542,2302,2187,710
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,CIN Plans,569,561,736,726,1224,1190,488
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,CIN Plans,581,579,107,106,616,613,509
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,CIN Plans,1725,1699,1729,1714,2898,2813,1169
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,CIN Plans,872,852,914,904,1430,1374,516
+2024,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,CIN Plans,1508,1457,1632,1592,2523,2419,891
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,CIN Plans,567,547,512,493,1011,963,499
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,CIN Plans,1260,1216,1232,1188,1794,1711,562
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,CIN Plans,637,637,552,552,811,811,259
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,CIN Plans,1814,1791,1834,1815,3281,3223,1447
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,CIN Plans,1851,1823,1945,1906,3347,3211,1402
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,CIN Plans,865,843,708,688,1165,1117,457
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,CIN Plans,2271,2207,2158,2092,3488,3326,1330
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,CIN Plans,913,897,757,741,1339,1293,582
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,CIN Plans,637,620,645,637,922,894,277
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,CIN Plans,1955,1895,1914,1851,3035,2882,1121
+2024,Reporting year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,CIN Plans,570,562,580,577,1023,1005,443
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,CIN Plans,358,358,359,358,652,644,293
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,CIN Plans,x,x,x,x,x,x,x
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,CIN Plans,1600,1575,1731,1698,2783,2697,1052
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,CIN Plans,1358,1333,1262,1219,2391,2306,1129
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,CIN Plans,u,u,u,u,u,u,u
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,CIN Plans,670,647,620,606,962,915,342
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,CIN Plans,4679,4567,4766,4678,7797,7529,3031
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,CIN Plans,1192,1164,1215,1190,1901,1832,686
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,CIN Plans,1202,1171,1614,1576,2573,2454,959
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,CIN Plans,1661,1606,1636,1584,2850,2709,1214
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,CIN Plans,555,548,521,517,856,823,335
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,CIN Plans,624,605,753,737,1127,1074,374
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,CIN Plans,930,901,837,817,1414,1341,577
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,CIN Plans,1084,1063,1252,1215,1860,1765,608
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,CIN Plans,2154,2103,2149,2115,3965,3827,1816
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,CIN Plans,834,621,904,685,1132,879,228
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,CIN Plans,1147,1146,1004,998,1945,1924,941
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,CIN Plans,451,446,477,465,713,687,236
+2024,Reporting year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,CIN Plans,399,398,321,321,661,650,340
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,CIN Plans,339,336,403,398,712,702,309
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",CIN Plans,1277,1243,1134,1115,1819,1754,685
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",CIN Plans,1257,1200,1142,1098,1816,1696,674
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,CIN Plans,1480,1440,1462,1431,1949,1883,487
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,CIN Plans,1683,1654,1657,1623,2610,2512,953
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,CIN Plans,1140,1123,1284,1259,2016,1949,732
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,CIN Plans,1932,1883,2183,2142,3137,2995,954
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,CIN Plans,c,c,c,c,6,6,c
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,CIN Plans,430,422,478,471,718,693,240
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,CIN Plans,705,698,653,648,1167,1142,514
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,933,E06000066,Somerset,CIN Plans,1029,1014,1080,1055,1779,1725,699
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,CIN Plans,563,561,487,486,1012,1003,525
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,CIN Plans,741,740,846,845,1317,1302,471
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,CIN Plans,649,632,737,716,1169,1125,432
+2024,Reporting year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,CIN Plans,1340,1308,1306,1274,2095,2002,789
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,CIN Plans,881,856,871,851,1565,1512,694
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,CIN Plans,8,8,c,c,16,16,c
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,CIN Plans,570,563,600,595,987,972,387
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,CIN Plans,249,249,242,241,577,574,335
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,CIN Plans,854,846,379,376,925,916,546
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,CIN Plans,849,827,787,776,1293,1245,506
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,CIN Plans,786,742,818,782,1138,1052,320
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,CIN Plans,1126,1119,54,54,1127,1120,1073
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,CIN Plans,965,946,1033,1014,1552,1518,519
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,CIN Plans,1421,1396,1356,1329,2571,2487,1215
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,CIN Plans,783,771,856,846,1648,1603,792
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,CIN Plans,999,989,996,990,1524,1501,528
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,CIN Plans,684,682,717,710,1392,1372,675
+2024,Reporting year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,CIN Plans,486,485,361,360,722,721,361
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,CIN Plans,1137,1104,1063,1042,1766,1709,703
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,CIN Plans,x,x,x,x,x,x,x
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,CIN Plans,817,772,921,884,1400,1329,479
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,CIN Plans,1168,1168,840,839,1486,1482,646
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,CIN Plans,1130,1129,971,949,1967,1912,996
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,CIN Plans,1442,1401,1265,1239,2426,2336,1161
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,CIN Plans,937,925,1033,1022,1517,1473,484
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,CIN Plans,1294,1261,1258,1213,2399,2296,1141
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,CIN Plans,542,539,526,520,871,865,345
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,CIN Plans,606,600,601,589,979,956,378
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,CIN Plans,1033,1023,1082,1065,1764,1719,682
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,CIN Plans,993,973,993,981,1681,1633,688
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,CIN Plans,773,715,900,870,1270,1191,370
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,CIN Plans,345,340,402,390,595,572,193
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,CIN Plans,468,462,388,383,787,767,399
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,CIN Plans,843,837,741,736,1705,1683,964
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,CIN Plans,405,403,404,401,679,663,275
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,CIN Plans,670,664,611,609,1387,1368,776
+2024,Reporting year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,CIN Plans,1016,1009,1241,1232,1691,1640,450
+2023,Reporting year,National,E92000001,England,"","",,"","",CIN Plans,184650,176830,184910,177200,286010,270950,101100
+2023,Reporting year,Regional,E92000001,England,E12000001,North East,,"","",CIN Plans,10070,9760,11260,10960,17510,16760,6260
+2023,Reporting year,Regional,E92000001,England,E12000002,North West,,"","",CIN Plans,32850,31600,33150,31980,48000,45440,14860
+2023,Reporting year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,"","",CIN Plans,22470,21500,23400,22350,33070,31040,9670
+2023,Reporting year,Regional,E92000001,England,E12000004,East Midlands,,"","",CIN Plans,14160,13850,14620,14250,22070,21100,7450
+2023,Reporting year,Regional,E92000001,England,E12000005,West Midlands,,"","",CIN Plans,17720,17330,16540,16210,27920,26910,11390
+2023,Reporting year,Regional,E92000001,England,E12000006,East of England,,"","",CIN Plans,11070,10780,11180,10910,18070,17400,6890
+2023,Reporting year,Regional,E92000001,England,E12000007,London,,"","",CIN Plans,25890,25230,23770,23300,41960,40560,18190
+2023,Reporting year,Regional,E92000001,England,E12000008,South East,,"","",CIN Plans,35310,31940,36080,32660,53950,49210,17870
+2023,Reporting year,Regional,E92000001,England,E12000009,South West,,"","",CIN Plans,15130,14840,14930,14590,23450,22520,8530
+2023,Reporting year,Regional,E92000001,England,E13000001,Inner London,,"","",CIN Plans,11300,10990,9610,9400,17620,17010,8010
+2023,Reporting year,Regional,E92000001,England,E13000002,Outer London,,"","",CIN Plans,14590,14230,14160,13900,24340,23560,10180
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,CIN Plans,2566,2438,2773,2648,3809,3563,1036
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,CIN Plans,424,413,488,487,753,729,265
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,CIN Plans,398,392,575,574,900,894,325
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,CIN Plans,711,699,670,661,1165,1114,495
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,CIN Plans,1257,1211,1467,1404,2018,1889,551
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,CIN Plans,11,11,440,440,615,609,175
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,CIN Plans,588,575,607,595,1141,1089,534
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,CIN Plans,1158,1129,1138,1111,2003,1935,865
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,CIN Plans,639,612,585,581,1106,1070,521
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,CIN Plans,509,505,623,611,1001,968,378
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,CIN Plans,962,948,995,983,1634,1589,639
+2023,Reporting year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,CIN Plans,845,829,894,864,1368,1310,474
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,CIN Plans,695,673,679,662,1048,1002,369
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,CIN Plans,872,861,889,863,1342,1292,453
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,CIN Plans,2374,2207,2284,2124,2854,2611,570
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,CIN Plans,937,897,1021,980,1426,1334,405
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,CIN Plans,1090,1054,1113,1072,1721,1622,608
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,CIN Plans,871,863,898,889,1468,1425,570
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,909,E10000006,Cumbria,CIN Plans,1660,1514,1697,1617,2432,2236,735
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,CIN Plans,609,594,650,632,948,905,298
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,CIN Plans,507,496,448,440,781,757,333
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,CIN Plans,1912,1859,1881,1849,3283,3161,1402
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,CIN Plans,1352,1319,1453,1406,2130,2034,677
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,CIN Plans,3243,3086,3418,3264,4613,4338,1195
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,CIN Plans,3069,3069,2448,2448,3492,3492,1044
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,CIN Plans,2452,2315,2388,2255,3351,3054,963
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,CIN Plans,1308,1270,1362,1322,2054,1965,692
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,CIN Plans,1211,1187,1296,1263,2054,1949,758
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,CIN Plans,949,921,954,929,1386,1301,432
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,CIN Plans,1281,1243,1395,1356,2054,1954,659
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,CIN Plans,1517,1430,1643,1538,2087,1904,444
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,CIN Plans,927,904,960,942,1424,1357,464
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,CIN Plans,1130,1108,1305,1262,1722,1630,417
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,CIN Plans,1859,1742,1899,1828,2709,2553,810
+2023,Reporting year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,CIN Plans,1021,992,1064,1041,1622,1565,558
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,CIN Plans,x,x,x,x,x,x,x
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,CIN Plans,2212,2160,2615,2559,3752,3621,1137
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,CIN Plans,316,315,355,353,506,501,151
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,CIN Plans,1356,1340,821,811,1357,1341,536
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,CIN Plans,1452,1248,1448,1247,1849,1560,401
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",CIN Plans,1673,1635,1792,1755,2683,2583,891
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,CIN Plans,1835,1755,1871,1787,2479,2318,608
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,CIN Plans,1594,1575,1791,1769,2539,2484,748
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,CIN Plans,1259,1208,1464,1416,1878,1769,414
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,CIN Plans,589,588,517,513,957,931,440
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E10000023,North Yorkshire,CIN Plans,2201,2130,2349,2275,3468,3312,1119
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,CIN Plans,1205,1179,1180,1134,1750,1669,570
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,CIN Plans,4607,4316,4826,4452,6627,5929,1801
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,CIN Plans,1547,1501,1671,1615,2240,2127,569
+2023,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,CIN Plans,619,550,699,663,984,895,285
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,CIN Plans,1497,1459,1646,1618,2262,2166,616
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,CIN Plans,3732,3610,3541,3375,5302,4897,1761
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,CIN Plans,841,804,836,791,1116,1049,280
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,CIN Plans,1178,1166,1250,1240,1866,1834,616
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,CIN Plans,1747,1721,1995,1938,3347,3210,1352
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,CIN Plans,866,862,878,876,1458,1441,580
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,CIN Plans,1244,1213,1096,1076,1795,1727,699
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,CIN Plans,2096,2064,2404,2366,3234,3109,830
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,CIN Plans,74,71,65,64,101,98,36
+2023,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,CIN Plans,886,877,909,902,1590,1573,681
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,CIN Plans,2708,2680,2303,2288,4153,4056,1850
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,CIN Plans,1836,1793,1608,1559,2685,2551,1077
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,CIN Plans,789,778,924,906,1482,1435,558
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",CIN Plans,920,870,865,828,1233,1155,368
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,CIN Plans,1162,1119,1078,1037,1628,1532,550
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,CIN Plans,479,476,479,475,949,931,470
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,CIN Plans,697,679,647,631,988,943,341
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,CIN Plans,1444,1435,1487,1487,2757,2724,1270
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,CIN Plans,1516,1493,1508,1483,2371,2271,863
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,CIN Plans,735,705,609,598,1266,1214,657
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,CIN Plans,766,762,376,376,799,795,423
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,CIN Plans,1675,1645,1599,1580,2898,2830,1299
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,CIN Plans,1413,1371,1524,1472,2159,2056,635
+2023,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,CIN Plans,1578,1521,1529,1486,2554,2421,1025
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,CIN Plans,462,450,467,454,911,882,444
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,CIN Plans,1177,1119,1208,1160,1751,1657,543
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,CIN Plans,571,569,430,429,981,978,551
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,CIN Plans,1829,1818,1728,1717,3267,3212,1539
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,CIN Plans,x,x,x,x,x,x,x
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,CIN Plans,638,612,848,820,1157,1096,309
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,CIN Plans,2338,2285,2371,2314,3591,3474,1220
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,CIN Plans,801,762,848,818,1304,1233,456
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,CIN Plans,750,724,779,750,1069,1002,290
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,CIN Plans,1935,1886,1879,1833,2962,2840,1083
+2023,Reporting year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,CIN Plans,564,558,619,610,1072,1027,453
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,CIN Plans,444,443,388,387,691,680,303
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,CIN Plans,x,x,x,x,x,x,x
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,CIN Plans,1748,1709,2038,2020,3210,3116,1172
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,CIN Plans,1199,1180,1285,1263,2276,2210,991
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,CIN Plans,10906,8821,11784,9583,14197,11684,2413
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,CIN Plans,1645,1262,1633,1230,2204,1723,571
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,CIN Plans,5081,4949,5383,5283,8506,8154,3123
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,CIN Plans,516,516,32,32,555,555,523
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,CIN Plans,1587,1546,1528,1506,2919,2790,1391
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,CIN Plans,1945,1887,2185,2123,3354,3189,1169
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,CIN Plans,561,544,559,549,860,835,301
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,CIN Plans,1828,1699,1458,1352,2604,2333,1146
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,CIN Plans,786,778,923,910,1409,1358,486
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,CIN Plans,1442,1429,971,966,1640,1627,669
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,CIN Plans,2128,2114,2313,2290,4088,4018,1775
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,CIN Plans,1205,808,1126,725,1432,1004,306
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,CIN Plans,1380,1365,1648,1634,2691,2656,1043
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,CIN Plans,542,529,480,457,737,696,257
+2023,Reporting year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,CIN Plans,362,362,348,348,581,581,233
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,CIN Plans,379,371,444,442,757,741,313
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",CIN Plans,1359,1330,1394,1347,2071,1961,677
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",CIN Plans,1271,1234,1286,1250,1860,1780,574
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,CIN Plans,1356,1325,1324,1290,1860,1799,536
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,CIN Plans,2031,2002,2085,2044,3062,2968,977
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,CIN Plans,1277,1237,1210,1178,2087,1955,877
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,CIN Plans,2301,2257,2149,2098,3358,3214,1209
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,CIN Plans,0,0,0,0,0,0,0
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,CIN Plans,415,411,367,363,654,639,287
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,CIN Plans,695,688,710,702,1177,1144,467
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,933,E10000027,Somerset,CIN Plans,1128,1100,1130,1112,1814,1741,684
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,CIN Plans,509,504,555,551,1002,988,447
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,CIN Plans,357,357,203,203,398,398,195
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,CIN Plans,709,696,672,644,1193,1125,521
+2023,Reporting year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,CIN Plans,1346,1327,1397,1366,2159,2062,762
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,CIN Plans,833,818,803,791,1479,1424,676
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,CIN Plans,c,c,0,0,c,c,c
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,CIN Plans,749,746,525,524,945,942,420
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,CIN Plans,373,373,352,350,677,665,325
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,CIN Plans,847,835,784,781,1411,1377,627
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,CIN Plans,767,764,828,813,1290,1240,462
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,CIN Plans,1279,1177,1282,1206,1670,1518,388
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,CIN Plans,990,971,60,60,991,971,931
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,CIN Plans,866,852,770,758,1367,1330,597
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,CIN Plans,1274,1251,1051,1036,2179,2121,1128
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,CIN Plans,939,921,921,906,1802,1756,881
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,CIN Plans,1134,1106,1188,1173,1708,1661,520
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,CIN Plans,910,887,846,812,1764,1711,918
+2023,Reporting year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,CIN Plans,335,290,199,192,335,290,136
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,CIN Plans,1335,1287,1669,1636,2292,2193,623
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,CIN Plans,x,x,x,x,x,x,x
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,CIN Plans,995,933,1048,1005,1514,1425,466
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,CIN Plans,1414,1396,1049,1045,1685,1667,636
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,CIN Plans,712,712,21,21,948,948,927
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,CIN Plans,1345,1318,1298,1270,2293,2216,995
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,CIN Plans,947,916,950,935,1523,1462,573
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,CIN Plans,1434,1385,1376,1347,2479,2370,1103
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,CIN Plans,451,447,450,449,705,693,255
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,CIN Plans,560,555,672,669,1059,1037,387
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,CIN Plans,x,x,x,x,x,x,x
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,CIN Plans,1033,1018,1101,1084,1801,1755,700
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,CIN Plans,906,866,930,904,1424,1348,494
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,CIN Plans,489,476,481,473,731,698,250
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,CIN Plans,100,99,395,392,618,605,223
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,CIN Plans,744,727,719,694,1592,1541,873
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,CIN Plans,427,421,448,442,727,702,279
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,CIN Plans,556,549,597,593,1312,1296,715
+2023,Reporting year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,CIN Plans,1144,1128,952,941,1636,1599,684
+2022,Reporting year,National,E92000001,England,"","",,"","",CIN Plans,202480,190710,194030,182660,299440,279530,104940
+2022,Reporting year,Regional,E92000001,England,E12000001,North East,,"","",CIN Plans,11220,10900,11470,11180,18430,17660,6970
+2022,Reporting year,Regional,E92000001,England,E12000002,North West,,"","",CIN Plans,33500,32000,33220,31840,48600,45630,15360
+2022,Reporting year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,,"","",CIN Plans,24360,23040,23540,22330,34140,31890,10610
+2022,Reporting year,Regional,E92000001,England,E12000004,East Midlands,,"","",CIN Plans,16150,15670,15540,15150,23390,22400,7850
+2022,Reporting year,Regional,E92000001,England,E12000005,West Midlands,,"","",CIN Plans,15970,15650,15280,14990,26310,25470,11030
+2022,Reporting year,Regional,E92000001,England,E12000006,East of England,,"","",CIN Plans,11680,11350,11760,11470,18750,18020,6990
+2022,Reporting year,Regional,E92000001,England,E12000007,London,,"","",CIN Plans,29210,27240,26330,24590,44180,41220,17860
+2022,Reporting year,Regional,E92000001,England,E12000008,South East,,"","",CIN Plans,44380,39240,42560,37080,62700,55200,19700
+2022,Reporting year,Regional,E92000001,England,E12000009,South West,,"","",CIN Plans,16000,15620,14350,14030,22930,22040,8580
+2022,Reporting year,Regional,E92000001,England,E13000001,Inner London,,"","",CIN Plans,13250,11630,12030,10550,19490,17350,7460
+2022,Reporting year,Regional,E92000001,England,E13000002,Outer London,,"","",CIN Plans,15960,15600,14300,14040,24690,23870,10400
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,840,E06000047,County Durham,CIN Plans,2719,2605,2634,2524,3877,3653,1243
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,841,E06000005,Darlington,CIN Plans,380,371,382,380,711,687,329
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,390,E08000037,Gateshead,CIN Plans,677,669,567,564,1108,1092,541
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,805,E06000001,Hartlepool,CIN Plans,735,722,791,776,1232,1180,441
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,806,E06000002,Middlesbrough,CIN Plans,1584,1522,1786,1727,2547,2399,761
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,391,E08000021,Newcastle upon Tyne,CIN Plans,828,825,881,868,1499,1485,618
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,392,E08000022,North Tyneside,CIN Plans,507,501,518,511,1035,1011,517
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,929,E06000057,Northumberland,CIN Plans,1144,1122,1106,1091,1958,1880,852
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,807,E06000003,Redcar and Cleveland,CIN Plans,587,574,711,699,1179,1145,468
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,393,E08000023,South Tyneside,CIN Plans,x,x,x,x,x,x,x
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,808,E06000004,Stockton-on-Tees,CIN Plans,1072,1030,1134,1096,1804,1701,670
+2022,Reporting year,Local authority,E92000001,England,E12000001,North East,394,E08000024,Sunderland,CIN Plans,989,962,955,946,1481,1423,526
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,889,E06000008,Blackburn with Darwen,CIN Plans,719,687,802,777,1145,1079,343
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,890,E06000009,Blackpool,CIN Plans,834,817,748,733,1222,1166,474
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,350,E08000001,Bolton,CIN Plans,2326,2080,2371,2167,2852,2533,481
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,351,E08000002,Bury,CIN Plans,837,824,751,726,1244,1192,493
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,895,E06000049,Cheshire East,CIN Plans,1267,1231,1370,1337,2008,1905,638
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,896,E06000050,Cheshire West and Chester,CIN Plans,995,987,1002,986,1590,1541,588
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,909,E10000006,Cumbria,CIN Plans,1714,1606,1722,1601,2502,2302,780
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,876,E06000006,Halton,CIN Plans,678,614,660,605,1023,889,363
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,340,E08000011,Knowsley,CIN Plans,473,457,568,553,850,811,282
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,888,E10000017,Lancashire,CIN Plans,1707,1660,1687,1653,3125,3012,1438
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,341,E08000012,Liverpool,CIN Plans,1565,1535,1565,1513,2356,2254,776
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,352,E08000003,Manchester,CIN Plans,3805,3622,3908,3721,5242,4862,1334
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,353,E08000004,Oldham,CIN Plans,1974,1974,2008,2008,2595,2595,587
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,354,E08000005,Rochdale,CIN Plans,2934,2709,3174,2945,4076,3665,902
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,355,E08000006,Salford,CIN Plans,1461,1423,833,823,1593,1551,760
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,343,E08000014,Sefton,CIN Plans,1341,1311,1222,1203,2107,2009,885
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,342,E08000013,St. Helens,CIN Plans,729,707,729,721,1170,1119,441
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,356,E08000007,Stockport,CIN Plans,1537,1460,1612,1530,2411,2219,799
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,357,E08000008,Tameside,CIN Plans,1596,1504,1461,1394,2087,1933,626
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,358,E08000009,Trafford,CIN Plans,949,915,937,917,1440,1379,503
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,877,E06000007,Warrington,CIN Plans,1110,1052,1232,1156,1651,1535,419
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,359,E08000010,Wigan,CIN Plans,1811,1719,1769,1695,2618,2443,849
+2022,Reporting year,Local authority,E92000001,England,E12000002,North West,344,E08000015,Wirral,CIN Plans,1138,1103,1093,1074,1691,1633,598
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,370,E08000016,Barnsley,CIN Plans,1024,1005,1082,1062,1617,1562,535
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,380,E08000032,Bradford,CIN Plans,2935,2857,3111,3054,4464,4312,1353
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,381,E08000033,Calderdale,CIN Plans,275,271,356,342,462,447,106
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,371,E08000017,Doncaster,CIN Plans,1175,1162,512,509,1177,1164,665
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,811,E06000011,East Riding of Yorkshire,CIN Plans,2085,1598,1753,1352,2278,1675,525
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,810,E06000010,"Kingston upon Hull, City of",CIN Plans,1806,1773,1782,1728,2777,2644,995
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,382,E08000034,Kirklees,CIN Plans,1797,1712,1874,1786,2516,2359,642
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,383,E08000035,Leeds,CIN Plans,1967,1939,2060,2024,2953,2880,893
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,812,E06000012,North East Lincolnshire,CIN Plans,898,871,1280,1232,1457,1382,177
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,813,E06000013,North Lincolnshire,CIN Plans,461,459,470,467,836,819,366
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,815,E10000023,North Yorkshire,CIN Plans,2229,2101,2126,2021,3399,3179,1273
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,372,E08000018,Rotherham,CIN Plans,1161,1133,1223,1178,1752,1670,529
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,373,E08000019,Sheffield,CIN Plans,3840,3558,3741,3449,5255,4730,1514
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,384,E08000036,Wakefield,CIN Plans,2108,2043,1617,1586,2281,2207,664
+2022,Reporting year,Local authority,E92000001,England,E12000003,Yorkshire and The Humber,816,E06000014,York,CIN Plans,602,556,548,538,920,861,372
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,831,E06000015,Derby,CIN Plans,2020,1930,2102,2050,2905,2764,803
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,830,E10000007,Derbyshire,CIN Plans,3608,3441,3677,3559,5386,5051,1709
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,856,E06000016,Leicester,CIN Plans,1014,971,1102,1055,1379,1297,277
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,855,E10000018,Leicestershire,CIN Plans,1176,1164,1228,1213,1917,1874,689
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,925,E10000019,Lincolnshire,CIN Plans,2105,2061,1931,1898,3534,3413,1603
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,940,E06000061,North Northamptonshire,CIN Plans,1077,1063,716,708,1228,1208,512
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,892,E06000018,Nottingham,CIN Plans,959,938,1124,1102,1652,1612,528
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,891,E10000024,Nottinghamshire,CIN Plans,2997,2931,2817,2740,3950,3785,1133
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,857,E06000017,Rutland,CIN Plans,72,72,101,98,127,124,26
+2022,Reporting year,Local authority,E92000001,England,E12000004,East Midlands,941,E06000062,West Northamptonshire,CIN Plans,1126,1098,740,731,1312,1276,572
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,330,E08000025,Birmingham,CIN Plans,1626,1612,1707,1686,3049,2989,1342
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,331,E08000026,Coventry,CIN Plans,1748,1715,1772,1730,2628,2506,856
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,332,E08000027,Dudley,CIN Plans,951,932,917,894,1533,1487,616
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,884,E06000019,"Herefordshire, County of",CIN Plans,590,577,449,437,783,747,334
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,333,E08000028,Sandwell,CIN Plans,1089,1058,1356,1314,1839,1754,483
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,893,E06000051,Shropshire,CIN Plans,582,573,578,567,1058,1030,480
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,334,E08000029,Solihull,CIN Plans,510,496,406,395,708,675,302
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,860,E10000028,Staffordshire,CIN Plans,1761,1739,1916,1907,3230,3163,1314
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,861,E06000021,Stoke-on-Trent,CIN Plans,1447,1404,1404,1355,2255,2118,851
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,894,E06000020,Telford and Wrekin,CIN Plans,550,521,482,474,1018,974,536
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,335,E08000030,Walsall,CIN Plans,667,667,512,512,1101,1101,589
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,937,E10000031,Warwickshire,CIN Plans,1727,1716,1248,1238,2923,2884,1675
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,336,E08000031,Wolverhampton,CIN Plans,1306,1265,1211,1196,1878,1827,667
+2022,Reporting year,Local authority,E92000001,England,E12000005,West Midlands,885,E10000034,Worcestershire,CIN Plans,1419,1378,1325,1283,2307,2219,982
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,822,E06000055,Bedford,CIN Plans,690,660,617,604,1064,1022,447
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,873,E10000003,Cambridgeshire,CIN Plans,1264,1229,1233,1196,1814,1746,581
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,823,E06000056,Central Bedfordshire,CIN Plans,547,546,492,492,896,895,404
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,881,E10000012,Essex,CIN Plans,1975,1951,1916,1901,3347,3269,1431
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,919,E10000015,Hertfordshire,CIN Plans,x,x,x,x,x,x,x
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,821,E06000032,Luton,CIN Plans,711,688,787,772,1300,1261,513
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,926,E10000020,Norfolk,CIN Plans,2334,2244,2336,2239,3582,3389,1246
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,874,E06000031,Peterborough,CIN Plans,766,750,735,725,1245,1197,510
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,882,E06000033,Southend-on-Sea,CIN Plans,715,689,749,728,1069,1018,320
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,935,E10000029,Suffolk,CIN Plans,1874,1830,1954,1904,2985,2847,1031
+2022,Reporting year,Local authority,E92000001,England,E12000006,East of England,883,E06000034,Thurrock,CIN Plans,803,764,938,911,1447,1377,509
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,867,E06000036,Bracknell Forest,CIN Plans,x,x,x,x,x,x,x
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,846,E06000043,Brighton and Hove,CIN Plans,x,x,x,x,x,x,x
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,825,E06000060,Buckinghamshire,CIN Plans,2284,2231,1979,1937,3438,3310,1459
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,845,E10000011,East Sussex,CIN Plans,1277,1239,1245,1205,2286,2191,1041
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,850,E10000014,Hampshire,CIN Plans,17371,14311,18572,15183,21172,17345,2600
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,921,E06000046,Isle of Wight,CIN Plans,2228,1818,2419,1967,2642,2093,223
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,886,E10000016,Kent,CIN Plans,5083,4958,4740,4622,8197,7859,3457
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,887,E06000035,Medway,CIN Plans,398,398,7,7,436,432,429
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,826,E06000042,Milton Keynes,CIN Plans,1459,1426,1298,1261,2628,2509,1330
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,931,E10000025,Oxfordshire,CIN Plans,1880,1845,1891,1856,3279,3167,1388
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,851,E06000044,Portsmouth,CIN Plans,605,599,536,529,785,769,249
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,870,E06000038,Reading,CIN Plans,1898,1716,1687,1543,2743,2429,1056
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,871,E06000039,Slough,CIN Plans,983,968,880,863,1493,1451,613
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,852,E06000045,Southampton,CIN Plans,2839,2508,915,738,2930,2567,2015
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,936,E10000030,Surrey,CIN Plans,2331,2296,2394,2358,4294,4175,1900
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,869,E06000037,West Berkshire,CIN Plans,980,692,825,549,1098,778,273
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,938,E10000032,West Sussex,CIN Plans,2376,1847,2764,2062,4679,3529,1467
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,868,E06000040,Windsor and Maidenhead,CIN Plans,389,387,403,398,600,592,197
+2022,Reporting year,Local authority,E92000001,England,E12000008,South East,872,E06000041,Wokingham,CIN Plans,x,x,x,x,x,x,x
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,800,E06000022,Bath and North East Somerset,CIN Plans,347,341,423,412,756,734,333
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,839,E06000058,"Bournemouth, Christchurch and Poole",CIN Plans,1742,1658,1671,1608,2534,2356,863
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,801,E06000023,"Bristol, City of",CIN Plans,1202,1164,1189,1143,1782,1681,593
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,908,E06000052,Cornwall,CIN Plans,1338,1314,1337,1316,1837,1788,500
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,878,E10000008,Devon,CIN Plans,1831,1809,1481,1453,2466,2388,985
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,838,E06000059,Dorset,CIN Plans,1269,1225,1213,1184,2029,1929,816
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,916,E10000013,Gloucestershire,CIN Plans,2156,2099,2027,2004,3104,2991,1077
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,420,E06000053,Isles of Scilly,CIN Plans,x,x,x,x,x,x,x
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,802,E06000024,North Somerset,CIN Plans,413,404,385,372,624,601,239
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,879,E06000026,Plymouth,CIN Plans,1020,1003,984,967,1472,1434,488
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,933,E10000027,Somerset,CIN Plans,886,877,776,765,1405,1376,629
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,803,E06000025,South Gloucestershire,CIN Plans,610,608,529,527,946,935,417
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,866,E06000030,Swindon,CIN Plans,560,560,198,198,560,560,362
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,880,E06000027,Torbay,CIN Plans,1195,1146,723,705,1212,1163,489
+2022,Reporting year,Local authority,E92000001,England,E12000009,South West,865,E06000054,Wiltshire,CIN Plans,1432,1411,1412,1377,2203,2105,791
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,202,E09000007,Camden,CIN Plans,895,873,953,944,1608,1572,655
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,201,E09000001,City of London,CIN Plans,26,26,0,0,36,36,36
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,204,E09000012,Hackney,CIN Plans,x,x,x,x,x,x,x
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,205,E09000013,Hammersmith and Fulham,CIN Plans,303,297,400,394,704,673,304
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,309,E09000014,Haringey,CIN Plans,1173,1172,1078,1073,1668,1662,590
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,206,E09000019,Islington,CIN Plans,2463,1141,2547,1253,3060,1392,513
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,207,E09000020,Kensington and Chelsea,CIN Plans,1304,1182,1241,1136,1643,1476,402
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,208,E09000022,Lambeth,CIN Plans,1040,1013,86,86,1040,1013,954
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,209,E09000023,Lewisham,CIN Plans,837,823,839,834,1344,1316,505
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,316,E09000025,Newham,CIN Plans,1245,1227,1266,1243,2151,2100,885
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,210,E09000028,Southwark,CIN Plans,903,892,885,880,1760,1725,875
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,211,E09000030,Tower Hamlets,CIN Plans,1358,1330,1464,1450,2025,1980,561
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,212,E09000032,Wandsworth,CIN Plans,1198,1153,1078,1064,1945,1900,867
+2022,Reporting year,Local authority,E92000001,England,E13000001,Inner London,213,E09000033,Westminster,CIN Plans,505,505,194,194,505,505,311
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,301,E09000002,Barking and Dagenham,CIN Plans,1655,1613,1536,1499,2489,2396,953
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,302,E09000003,Barnet,CIN Plans,x,x,x,x,x,x,x
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,303,E09000004,Bexley,CIN Plans,1006,947,970,914,1494,1379,524
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,304,E09000005,Brent,CIN Plans,1149,1142,1138,1134,1273,1266,135
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,305,E09000006,Bromley,CIN Plans,820,750,116,110,1006,896,890
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,306,E09000008,Croydon,CIN Plans,1424,1407,1281,1272,2219,2182,938
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,307,E09000009,Ealing,CIN Plans,1070,1057,1070,1057,1715,1660,645
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,308,E09000010,Enfield,CIN Plans,1135,1110,944,932,1967,1905,1023
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,203,E09000011,Greenwich,CIN Plans,508,502,498,494,741,727,243
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,310,E09000015,Harrow,CIN Plans,752,746,699,691,1269,1252,570
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,311,E09000016,Havering,CIN Plans,621,621,530,530,938,938,408
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,312,E09000017,Hillingdon,CIN Plans,1198,1172,1116,1095,1893,1812,777
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,313,E09000018,Hounslow,CIN Plans,921,895,840,811,1358,1288,518
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,314,E09000021,Kingston upon Thames,CIN Plans,445,435,455,441,703,669,248
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,315,E09000024,Merton,CIN Plans,137,136,123,119,278,269,155
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,317,E09000026,Redbridge,CIN Plans,800,784,678,668,1531,1499,853
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,318,E09000027,Richmond upon Thames,CIN Plans,472,463,423,419,723,702,300
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,319,E09000029,Sutton,CIN Plans,796,792,822,815,1568,1547,746
+2022,Reporting year,Local authority,E92000001,England,E13000002,Outer London,320,E09000031,Waltham Forest,CIN Plans,1051,1030,1057,1035,1528,1483,471
