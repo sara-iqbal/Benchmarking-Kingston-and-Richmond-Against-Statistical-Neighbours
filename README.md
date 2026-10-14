@@ -2,10 +2,6 @@
 
 **Benchmarking two London boroughs' children's services against their statistical neighbours, London and England, using DfE open data.**
 
-[Live dashboard](https://<your-username>.github.io/<repository-name>/) · [Notebook](benchmarking_statistical_neighbours.ipynb)
-
-![Kingston against its statistical neighbours](images/benchmark_kingston.png)
-
 ## The problem
 
 Performance figures mean very little in isolation. If a council completes 80% of its assessments within 45 working days, is that good? It depends entirely on what you compare it with.
