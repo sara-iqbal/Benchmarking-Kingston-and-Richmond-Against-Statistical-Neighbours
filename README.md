@@ -111,7 +111,6 @@ The full plain-English findings are in [insight_brief.md](insight_brief.md).
 
 1. Download the two DfE "Download all data" zips and the statistical neighbour workbook (links in the notebook).
 2. Open the notebook in Google Colab and select **Runtime > Run all**. Choose the three files when asked.
-3. The final cell downloads a zip with the Power BI files, this README, the dashboard data and the charts.
 
 ## Tools
 
